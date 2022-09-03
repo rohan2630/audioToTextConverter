@@ -88,6 +88,7 @@ pylint==2.15.0
 pyls-spyder==0.4.0
 PyNaCl==1.5.0
 pyparsing==3.0.9
+pypiwin32==223
 PyQt5==5.15.7
 PyQt5-Qt5==5.15.2
 PyQt5-sip==12.11.0
@@ -101,7 +102,7 @@ python-lsp-server==1.5.0
 python-slugify==6.1.2
 pytoolconfig==1.2.2
 pytz==2022.2.1
-pywin32==304
+
 pywin32-ctypes==0.2.0
 PyYAML==6.0
 pyzmq==23.2.1
